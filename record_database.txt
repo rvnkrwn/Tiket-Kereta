@@ -1,0 +1,65 @@
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+			kode                 :  23814
+			kereta               :  Brantas
+			tempat duduk         :  A2
+			Nama Lengkap         :  Revan Kurniawan
+			NIK                  :  2211102167
+			Kota Asal            :  Jakarta
+			Kota tujuan          :  Surabaya
+			Jadwal               :  05.30-09.30
+			harga tiket          :  700.000
+			status               :  Berlaku
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+			kode                 :  38556
+			kereta               :  Mataram
+			tempat duduk         :  A4
+			Nama Lengkap         :  Rifqhi Ammar Rihani
+			NIK                  :  2211102163
+			Kota Asal            :  Bandung
+			Kota tujuan          :  Semarang
+			Jadwal               :  05.30-09.30
+			harga tiket          :  450.000
+			status               :  Berlaku
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+			kode                 :  19845
+			kereta               :  Kertanegara
+			tempat duduk         :  B1
+			Nama Lengkap         :  Fatimah Az zahra
+			NIK                  :  2211102160
+			Kota Asal            :  Yogyakarta
+			Kota tujuan          :  Purwokerto
+			Jadwal               :  05.30-09.30
+			harga tiket          :  250.000
+			status               :  Berlaku
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+			kode                 :  567
+			kereta               :  Singasari
+			tempat duduk         :  A3
+			Nama Lengkap         :  Nimas Sekar Ayu Iandi
+			NIK                  :  2211102170
+			Kota Asal            :  Surabaya
+			Kota tujuan          :  Bandung
+			Jadwal               :  05.30-09.30
+			harga tiket          :  650.000
+			status               :  Berlaku
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+			kode                 :  39690
+			kereta               :  Bogowonto
+			tempat duduk         :  A5
+			Nama Lengkap         :  Anissa Sekar Prasasti
+			NIK                  :  2211102156
+			Kota Asal            :  Semarang
+			Kota tujuan          :  Yogyakarta
+			Jadwal               :  05.30-09.30
+			harga tiket          :  180.000
+			status               :  Berlaku
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+

@@ -1,0 +1,10 @@
+"Pemesanan Tiket Kereta Api"
+
+List anggota kelompok
+
+1.Revan Kurniawan 2211102167
+2.Rifqhi Ammar Rihani 2211102163
+3.Fatimah Az zahra 2211102160
+4.Nimas Sekar Ayu Iandi 2211102170
+5. Anissa Sekar Prasasti 2211102156
+6. Shofia Ike Rahmawati 2211102164
